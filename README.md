@@ -1,4 +1,4 @@
-## Pneumonia detection using Deep Learning
+## Pneumonia Detection Using Deep Learning
 
 This is deep learning model based on Convolutional Neural Networks for pneumonia detection.
 The system labels an X-RAY lungs image as either virus, bacteria or normal.
